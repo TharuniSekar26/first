@@ -1,7 +1,7 @@
 package bankapplication;
 
 class bank {
-	private int id;
+	public int id;
 	private String name;
 	private int bal;
 	public String getName() {
